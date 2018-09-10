@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thordoor/react-school.git"
+    "url": "git+https://github.com/throwpedro/react-school.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thordoor/react-school/issues"
+    "url": "https://github.com/throwpedro/react-school/issues"
   },
-  "homepage": "https://github.com/thordoor/react-school#readme"
+  "homepage": "https://github.com/throwpedro/react-school#readme"
 }

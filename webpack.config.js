@@ -14,14 +14,12 @@ const config = {
     plugins: [
         new CleanWebpackPlugin(['dist']),
         new HtmlWebpackPlugin({tempalte:'../index.html'}),
-    ],
-    rules: [
-        {
-            test: /\.js$/,
-            use:{
-                loader: "babel-loader",
-            },
+    ],    
+    /* rules: [{
+        test: /\.js$/,
+        use:{
+            loader: "babel-loader",
         },
-    ],
+    }], */
 }
 module.exports = config;
